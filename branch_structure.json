@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1167-test-frontend-performance-lighthouse-score-90",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1167-test-frontend-performance-lighthouse-score-90": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1167-test-frontend-performance-lighthouse-score-90",
+    "origin"
+  ]
+}
